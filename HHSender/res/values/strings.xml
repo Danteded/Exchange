@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Отправка резюме</string>
+    <string-array name="gender">
+        <item >мужской</item>
+        <item >женский</item>
+    </string-array>
+    <string name="second_screen">Ответ работодателя</string>
+    <string name="FIO">ФИО: </string>
+    <string name="BirthDate">Дата рождения: </string>
+    <string name="Gender">Пол: </string>
+    <string name="Position">Должность: </string>
+    <string name="Salary">Зарплата: </string>
+    <string name="Phone">Телефон: </string>
+    <string name="Phone2"><![CDATA[ <u>Телефон: %s</u>]]></string>
+    <string name="Email">E-mail: </string>
+    <string name="Email2"><![CDATA[ <u>E-mail: %s</u>]]></string>
+    <string name="SendButton">Отправить резюме</string>
+    <string name="FullInfo">Соискатель указал следующие даные: </string>
+    <string name="chooseDate">Выберите дату!</string>
+    <string name="Attention">Внимание: </string>
+    <string name="NotEnoughData">Вы должны заполнить все поля!  </string>
+    <string name="AnswerTitle">Ответ работодателя:</string>
+    <string name="ChooseClient">Выберите почтовую программу.</string>
+    <string name="MailAnswer">Ваше резюме будет рассмотренно в ближайшее время.</string>
+    <string name="sendAnswer">Отправить ответ</string>
+
+</resources>

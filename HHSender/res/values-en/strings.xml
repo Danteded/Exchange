@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CV Sender</string>
+    <string-array name="gender">
+        <item >male</item>
+        <item >female</item>
+    </string-array>
+    <string name="second_screen">Employer\'s answer</string>
+    <string name="FIO">Name: </string>
+    <string name="BirthDate">Date of birth: </string>
+    <string name="Gender">Gender: </string>
+    <string name="Position">Position: </string>
+    <string name="Salary">Salary: </string>
+    <string name="Phone">Phone: </string>
+    <string name="Phone2">Phone: <![CDATA[<font color=\'#0000EE\'><u>%s</u></font>]]></string>
+    <string name="Email">E-mail: </string>
+    <string name="Email2">E-mail: <![CDATA[<font color=\'#0000EE\'><u>%s</u></font>]]></string>
+    <string name="SendButton">Send CV</string>
+    <string name="FullInfo">information about applicant: </string>
+    <string name="chooseDate">Choose date! </string>
+    <string name="Attention">Attention: </string>
+    <string name="NotEnoughData">You should fill in all fields!</string>
+    <string name="AnswerTitle">Employer\'s answer:</string>
+    <string name="ChooseClient">Choose mail client.</string>
+    <string name="MailAnswer">Your CV will be checked in nearest time. Thank you for your attention</string>
+    <string name="sendAnswer">Send answer</string>
+
+</resources>
